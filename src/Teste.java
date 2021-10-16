@@ -7,6 +7,7 @@ public class Teste {
 		System.out.println("Boa noite!");
 		System.out.println("Obrigado");
 		System.out.println("Novo dia");
+		System.out.println("Teste");
 		/*
 		usei o comando (git clean -df)  em seguida (git checkou -- .) para voltar o código como estava
 		para trocar apenas a mensagem do último commit usei o comando (git reset --soft HEAD~1)
